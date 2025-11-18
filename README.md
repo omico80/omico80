@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Generative AI 
 - 👯 I’m looking to collaborate on an AI application for Drug Design for Pediatric Neuro-oncology 
 - 🤔 I’m looking for help with Drug Docking using AI 
-- 📫 How to reach me: By email or LinkedIn Connection 
+- 📫 How to reach me: By email or LinkedIn Connection
+- Connect with me :
+- https://www.linkedin.com/in/omid-rezania-923280354/
 -->
 
 <!--
